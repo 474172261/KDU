@@ -1,4 +1,13 @@
+# What is this
+
+This is a fork project from KDU by  [hfiref0x/KDU](https://github.com/hfiref0x/KDU). 
+
+I modified some output information and combined resources into one project. 
+
+The following messages come from origin project.
+
 # KDU
+
 ## Kernel Driver Utility
 
 #### System Requirements
